@@ -16,7 +16,7 @@
 
 
 <hr>  
-Este trabajo consiste en realizar un análisis completo del comportamiento del sector de telecomunicaciones de una empresa Argentina, el cual se usan los datos de la API del organismo público de Argentina llamado *ENACOM*, quién suministra toda la información concerniente a las telecomunicaciones como son: los datos históricos del mercado, oferta, demanda y cobertura de los servicios de conectividad y tecnologías.
+Este trabajo consiste en realizar un análisis completo del comportamiento del sector de telecomunicaciones de una empresa Argentina, el cual se usan los datos de la API del organismo público de Argentina llamado **ENACOM**, quién suministra toda la información concerniente a las telecomunicaciones como son: los datos históricos del mercado, oferta, demanda y cobertura de los servicios de conectividad y tecnologías.
 
 <hr>
 
@@ -121,4 +121,4 @@ Teniendo claro que, con los datos que se trabajaran, se procede a realizar la li
 
 [Visualizaciones](https://github.com/cristos34/PI_02-09Migra-Enacom-Data-Analyst/blob/main/Dasboar.PNG)
 
-Para crear las visualizaciones se utlizó la herramienta **Power BI**, en la cual se crearon las relaciones de cardinalidad entre las diferentes tablas, buscando crear interacciones entre las mismas y crear un Dashboard interactivo, como se evidencia en el siguiente [archivo](https://github.com/cristos34/PI_02-09Migra-Enacom-Data-Analyst/blob/main/PI_02_09.pbix), como también se relizó un informe dónde se analiza el [tablero_de_control]().
+Para crear las visualizaciones se utlizó la herramienta **Power BI**, en la cual se crearon las relaciones de cardinalidad entre las diferentes tablas, buscando crear interacciones entre las mismas y crear un Dashboard interactivo, como se evidencia en el siguiente [archivo](https://github.com/cristos34/PI_02-09Migra-Enacom-Data-Analyst/blob/main/PI_02_09.pbix), como también se relizó un [informe](https://github.com/cristos34/PI_02-09Migra-Enacom-Data-Analyst/blob/main/Informe%20general%20ENACOM%20(Contreras).pdf) dónde se analiza el  tablero_de_control más unas [diapositivas](https://github.com/cristos34/PI_02-09Migra-Enacom-Data-Analyst/blob/main/CAC%20PRESENTACION.pdf) de presentacion.
